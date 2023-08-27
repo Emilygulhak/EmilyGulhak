@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Emilygulhak/EmilyGulhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, my name's Emily 
+- future systems developer 🖥️
+- I'm 22 years old 🎂
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/emily-gulhak-a79945180/)
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Emilygulhak&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------------------🇧🇷 🇧🇷 🇧🇷 🇧🇷 🏴󠁢󠁲󠁳󠁰󠁿-----------------------------
+- My Programming Languages :
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+
+
+
+
