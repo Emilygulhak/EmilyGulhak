@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Emilygulhak&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
--------------------------------🇧🇷 🇧🇷 🇧🇷 🇧🇷 🏴󠁢󠁲󠁳󠁰󠁿-----------------------------
+-------------------------------🇧🇷 🇧🇷 🇧🇷 🇧🇷 🇧🇷 󠁢󠁲󠁳-----------------------------
 - My Programming Languages :
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
